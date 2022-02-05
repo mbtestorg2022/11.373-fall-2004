@@ -24,11 +24,48 @@ Evaluations of Student Achievement
 
 Students will be evaluated on the quality of their contribution to the class as well as on their written work. Grades will be based on the following, **approximate**, formula:
 
-| ACTIVIITES | PERCENTAGES |
-| --- | --- |
-| Class Participation | 20% |
-| Weekly Essays | 50% |
-| Final Essay | 30% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVIITES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Class Participation
+{{< tdclose >}}
+{{< tdopen >}}
+20%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Weekly Essays
+{{< tdclose >}}
+{{< tdopen >}}
+50%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Final Essay
+{{< tdclose >}}
+{{< tdopen >}}
+30%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Format Notes for Writing Essays
 -------------------------------
